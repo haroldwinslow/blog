@@ -1,7 +1,7 @@
 ---
 title: The fifth and hopefully final example post
 date: 
-author: Jane Doe
+author: 
 summary: 
 tags:
 ---
