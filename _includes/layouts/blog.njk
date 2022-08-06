@@ -5,11 +5,9 @@ permalink: /blog/index.html
 ---
 <h1>{{ title }}</h1>
 
-{#
 {{ layoutContent | safe }}
-#}
-{% set postslist = collections.post %}
 
+{% set postslist = collections.post %}
 
 {% include "components/postslist.njk" %}
 
